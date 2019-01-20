@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/holykss-test/ProvinceTest/issues"
   },
-  "homepage": "https://github.com/holykss-test/ProvinceTest#readme"
+  "homepage": "https://github.com/holykss-test/ProvinceTest#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
