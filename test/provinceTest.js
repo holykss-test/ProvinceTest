@@ -3,8 +3,7 @@ const chai = require('chai');
 const expect = chai.expect;
 const should = chai.should();
 
-import Province from '../src/Province'
-
+const Province = require('../src/Province')
 
 describe('province', function () {
     it('shortfall', function () {

@@ -31,4 +31,4 @@ class Producer {
 
 }
 
-exports = Producer
+module.exports = Producer

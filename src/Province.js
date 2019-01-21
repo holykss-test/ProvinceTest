@@ -1,4 +1,4 @@
-import Producer from 'Producer'
+const Producer = require('./Producer');
 
 class Province {
 
@@ -79,4 +79,4 @@ class Province {
 
 }
 
-exports = Province
+module.exports = Province
