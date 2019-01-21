@@ -3,7 +3,7 @@ const chai = require('chai');
 const expect = chai.expect;
 const should = chai.should();
 
-const Province = require('../src/Province')
+const Province = require('../src/Province.js')
 
 describe('province', function () {
     let asia;

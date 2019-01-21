@@ -1,4 +1,4 @@
-const Producer = require('./Producer');
+const Producer = require('./Producer.js');
 
 class Province {
 
